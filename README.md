@@ -1,5 +1,7 @@
 # Aggregation and Analysis of Diffusion of Microfinance Data
 
+<a href = "http://nbviewer.jupyter.org/github/aboomer07/Complex_Networks/blob/master/Network_Analysis.ipynb?flush_cache=False">Link to Notebook Viewer</a>
+
 ## Explanation and Sources
 *All data comes from the Harvard Dataverse website. The paper is cited below:*
 
